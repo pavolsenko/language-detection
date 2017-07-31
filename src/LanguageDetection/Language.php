@@ -17,7 +17,7 @@ class Language extends NgramParser
     /**
      * @var array
      */
-    private $tokens = [];
+    protected $tokens = [];
 
     /**
      * Loads all language files
