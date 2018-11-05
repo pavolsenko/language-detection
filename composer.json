@@ -1,9 +1,9 @@
 {
-  "name": "pavolsenko/language-detection",
+  "name": "socialisten/language-detection",
   "type": "library",
   "description": "A language detection library for PHP. Detects the language from a given text string.",
   "keywords": ["language", "detection", "detect"],
-  "homepage": "https://github.com/pavolsenko/language-detection",
+  "homepage": "https://github.com/socialisten/language-detection",
   "license": "MIT",
   "minimum-stability": "stable",
   "prefer-stable": true,
